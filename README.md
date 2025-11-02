@@ -1,0 +1,1 @@
+öve öve bitiremediginiz boost ban cekiyor dediginiz pycurl4 kütüphanesi kullanan Defender adlı arkadaşın kullanmış olduğu python sniperlara benzer bir sniper. Siz dil değiştirin biz onu da publarız 2022 de olduğu gibi 400tl e istediğin zaman da kod satarız ;)
